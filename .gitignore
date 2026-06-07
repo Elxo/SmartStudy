@@ -16,8 +16,7 @@ calendar.db
 university_schedule.ics
 
 # ── Generated launcher files ───────────────────────────────────────────────────
-# Rebuilt by compiling launcher.cs — see DEPENDENCIES.md
-SmartStudy.exe
+# ICO can be regenerated from logo.png — see DEPENDENCIES.md
 SmartStudy.ico
 
 # ── Personal / local files ─────────────────────────────────────────────────────
